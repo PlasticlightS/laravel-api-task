@@ -14,10 +14,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [\App\Http\Controllers\PropertyController::class, 'index']);
 
 Route::resource('properties', PropertyController::class);
 
-Route::get('/api', [ApiController::class, 'guzzleGet']);
+Route::get('/api', [ApiController::class, 'apiImport']);

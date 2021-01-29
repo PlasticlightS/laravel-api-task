@@ -12,7 +12,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/laravel-api-task" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -117,6 +117,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
       <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
       <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1ncXh5YB8woe7fL533DOBp5nWGb" />
@@ -128,9 +129,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/sass" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\laravel-api-task\resources\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\laravel-api-task\resources\sass" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -148,6 +158,8 @@
       <updated>1611690470817</updated>
       <workItem from="1611690472924" duration="298000" />
       <workItem from="1611691636976" duration="7130000" />
+      <workItem from="1611861744457" duration="15636000" />
+      <workItem from="1611913392770" duration="2775000" />
     </task>
     <servers />
   </component>
@@ -155,17 +167,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-706" y="636" key="NewPhpFileDialog" timestamp="1611874447658">
+      <screen x="-1080" y="-228" width="1080" height="1880" />
+    </state>
+    <state x="-706" y="636" key="NewPhpFileDialog/-1080.-228.1080.1880/0.0.2560.1400@-1080.-228.1080.1880" timestamp="1611874447658" />
     <state x="-1039" y="357" key="SettingsEditor" timestamp="1611696572437">
       <screen x="-1080" y="-228" width="1080" height="1880" />
     </state>
     <state x="-1039" y="357" key="SettingsEditor/-1080.-228.1080.1880/0.0.2560.1400@-1080.-228.1080.1880" timestamp="1611696572437" />
-    <state x="-832" y="317" width="583" height="789" key="find.popup" timestamp="1611698322357">
+    <state x="-832" y="317" width="583" height="789" key="find.popup" timestamp="1611867388327">
       <screen x="-1080" y="-228" width="1080" height="1880" />
     </state>
-    <state x="-832" y="317" width="583" height="789" key="find.popup/-1080.-228.1080.1880/0.0.2560.1400@-1080.-228.1080.1880" timestamp="1611698322357" />
-    <state x="-877" y="207" width="672" height="678" key="search.everywhere.popup" timestamp="1611695994472">
+    <state x="-832" y="317" width="583" height="789" key="find.popup/-1080.-228.1080.1880/0.0.2560.1400@-1080.-228.1080.1880" timestamp="1611867388327" />
+    <state x="-877" y="207" width="672" height="678" key="search.everywhere.popup" timestamp="1611914184441">
       <screen x="-1080" y="-228" width="1080" height="1880" />
     </state>
-    <state x="-877" y="207" width="672" height="678" key="search.everywhere.popup/-1080.-228.1080.1880/0.0.2560.1400@-1080.-228.1080.1880" timestamp="1611695994472" />
+    <state x="-877" y="207" width="672" height="678" key="search.everywhere.popup/-1080.-228.1080.1880/0.0.2560.1400@-1080.-228.1080.1880" timestamp="1611914184441" />
   </component>
 </project>
